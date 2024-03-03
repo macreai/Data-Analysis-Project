@@ -7,4 +7,11 @@ This project focuses on analyzing air quality data, including pollutants such as
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/macreai/Data-Analysis-Project.git
+2. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+## Run
+```bash
+streamlit run dashboard.py
 
